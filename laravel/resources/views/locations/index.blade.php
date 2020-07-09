@@ -4,7 +4,7 @@ Location
 @endsection('title')
 @section('content')
 <div class="container py-5 mb5">
-<h1 class="mb-5"><h1 class="display-4">Location</h1></h1>
+<h1 class="mb-5"><h1 class="display-4">LOCATION</h1></h1>
         <div class="row">
         @foreach ($locations as $location)
                 <div class="col-md-4 col-lg-4">

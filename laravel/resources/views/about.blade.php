@@ -13,22 +13,20 @@ About
     <div class="carousel-item">
       <img class="d-block mx-auto img-fluid" src={{ asset('img/carousel/1.jpg') }} alt="First slide">
         <div class="carousel-caption d-none d-md-block">
-        <h4 class="display-4">Submit</h4>
-        <h4>Think your fit is sick?</h4>
+        <h4 class="display-4">Food</h4>
+        
         </div>
     </div>
     <div class="carousel-item">
       <img class="d-block  mx-auto mg-fluid" src={{ asset('img/carousel/2.jpg') }} alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-      <h4 class="display-4">Vote</h4>
-        <h4>Decide who else is #trendings</h4>
+      <h4 class="display-4">Supplies</h4>
         </div>
     </div>
     <div class="carousel-item active">
       <img class="d-block  mx-auto img-fluid" src={{ asset('img/carousel/3.jpg') }} alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-      <h4 class="display-4">API</h4>
-        <h4>A direct feed of what hot.</h4>
+      <h4 class="display-4">Resources</h4>
         </div>
     </div>
   </div>
@@ -43,8 +41,16 @@ About
   </a>
   </div>
   <div class="container py-5 mb5">
-<h1 class="mb-5"><h1 class="display-4">About</h1></h1>
+  <h1 class="mb-5"><h1 class="display-4">About Us</h1></h1>
+<p>Maidah was created as a project to help redistribute food supplies, hygoiene equipment and general goods in times of needs.</p>
+<blockquote class="blockquote blockquote-reverse">
+  <p class="mb-0">"The war against hunger is truly mankind’s war of liberation.”</p>
+  <footer class="blockquote-footer">John F Kennedy
+    <cite title="Source Title">1965</cite>
+  </footer>
+</blockquote>
 </div>
+
 </div>
 
 @endsection

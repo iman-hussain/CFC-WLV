@@ -22,16 +22,25 @@ Route::get('/home', function () {
     });
 
 Route::get('/location', 'LocationsController@index');
-
 Route::get('/location/{location}', 'LocationsController@show');
 
-Route::get('/submit',  'SubmitController@submit');
-Route::post('/submit', 'SubmitController@store');
+Route::put('location/{location}', 'LocationsController@update')->middleware('auth');
+
+Route::get('/location/{location}/edit', 'LocationsController@edit')->middleware('auth');
+Route::get('/location/{location}/delete', 'LocationsController@delete')->middleware('auth');
+
+Route::get('/submit',  'SubmitController@submit')->middleware('auth');
+Route::post('/submit', 'SubmitController@store')->middleware('auth');
 
 Route::get('/api', function () {
         return view('api');
 });
 
+Route::get('/json', 'JsonController@json');
+
 Route::get('/about', function () {
         return view('about');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
