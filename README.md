@@ -1,6 +1,11 @@
 ![Logo](https://i.imgur.com/jjjSs0e.png)
 # Welcome to Lupe
 A blockchain powered food redistribution solution, for people, businessess and charities.
+
+## Contents
+
+1. [Demo Video](#demo-video)
+
 # Video
 Click the thumbnailt to be taken to our video introduction.
 [![Video Thumbnail](https://i.imgur.com/7CS0tl2.png)](https://www.youtube.com/watch?v=w90ziNPJicE&feature=youtu.be "Lupe Call for Code Entry")
