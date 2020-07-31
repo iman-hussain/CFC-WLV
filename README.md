@@ -6,7 +6,7 @@ A blockchain powered food redistribution solution, for people, businessess and c
 1. [Demo Video](#Demo-Video)
 2. [Installation Instructions](#Installation-Instructions)
 3. [In Detail](#In-Detail)
-4. [Roadmap](#Roadmap)
+4. [Road Map](#Road-Map)
 5. [Built With](#Built-With)
 6. [Our Team](#Our-Team)
 
