@@ -5,10 +5,11 @@ A blockchain powered food redistribution solution, for people, businessess and c
 # Table of Contents
 1. [Demo Video](#Demo-Video)
 2. [Installation Instructions](#Installation-Instructions)
-3. [In Detail](#In-Detail)
-4. [Road Map](#Road-Map)
-5. [Built With](#Built-With)
-6. [Our Team](#Our-Team)
+3. [In Short](#In-Short)
+4. [In Detail](#In-Detail)
+5. [Road Map](#Road-Map)
+6. [Built With](#Built-With)
+7. [Our Team](#Our-Team)
 
 # Demo-Video
 Click the thumbnailt to be taken to our video introduction.
@@ -23,7 +24,9 @@ From here you will need to run
    Followed by
    
      npm start
-
+  
+# In Short
+Lupe is a webapp that uses IBM's blockchain to help redistribute food. Users can add their own food and supplies and trade with others. It can also be used by businesses as a portal to allow them to continue to sell to members of the public. It will also automatically send delegate food and supplies to local charities if the food is at risk of expiring to ensure food waste is minimised.
 
 # In Detail
 Lupe is a food redistribution application developed around Blockchain technology is our submission for IBM’s Call for Code competition. While food waste was already a global issue, Covid-19 heightened its effects through not allowing food outlets to operate during lockdown, creating economic stress and scarcity within local communities. Our team successfully created an application which allows local communities to safely share or trade their inventory with others. It could be used during similar situations, such as natural disasters or humanitarian crises. Enterprises of different sizes can benefit from using our digital solution for stock management whilst also uplifting and supporting their local community in times of economic uncertainty. Lupe aims to connect businesses, charities and people.
