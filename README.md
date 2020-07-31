@@ -31,8 +31,11 @@ We wanted Lupe to be future proof so that it could adapt to suit various needs a
 
 # Our Team
 Our team is comprised of students from the [University of Wolverhampton](https://www.wlv.ac.uk/)
-Lukas Jaks 			| [@JaksLukas](https://twitter.com/jakslukas)
-Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
-Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
-Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
 
+Lukas Jaks 			| [@JaksLukas](https://twitter.com/jakslukas)
+
+Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
+
+Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
+
+Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
