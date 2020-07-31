@@ -6,7 +6,9 @@ A blockchain powered food redistribution solution, for people, businessess and c
 1. [Demo Video](#Demo-Video)
 2. [Installation Instructions](#Installation-Instructions)
 3. [In Detail](#In-Detail)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [Roadmap](#Roadmap)
+5. [Built With](#Built-With)
+6. [Our Team](#Our-Team)
 
 # Demo-Video
 Click the thumbnailt to be taken to our video introduction.
@@ -36,6 +38,14 @@ We wanted Lupe to be future proof so that it could adapt to suit various needs a
 # Road Map
 ![Roadmap](https://i.imgur.com/C7mSWbP.jpg)
 
+
+# Built With
+[IBM Linux One](https://www.ibm.com/uk-en/it-infrastructure/linuxone)
+
+[HyperLedger Fabric](https://www.hyperledger.org/use/fabric)
+
+[Angular](https://angular.io/)
+
 # Our Team
 Our team is comprised of students from the [University of Wolverhampton](https://www.wlv.ac.uk/)
 
@@ -47,7 +57,3 @@ Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
 
 Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
 
-# Built With
-[IBM Linux One](https://www.ibm.com/uk-en/it-infrastructure/linuxone)
-[HyperLedger Fabric](https://www.hyperledger.org/use/fabric)
-[Angular](https://angular.io/)
