@@ -43,7 +43,7 @@ We wanted Lupe to be future proof so that it could adapt to suit various needs a
 
 
 # Built With
-[IBM Linux One](https://www.ibm.com/uk-en/it-infrastructure/linuxone)
+[IBM Kubernetes](https://www.ibm.com/uk-en/cloud/container-service)
 
 [HyperLedger Fabric](https://www.hyperledger.org/use/fabric)
 
