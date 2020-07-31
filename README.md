@@ -5,6 +5,16 @@ A blockchain powered food redistribution solution, for people, businessess and c
 Click the thumbnailt to be taken to our video introduction.
 [![Video Thumbnail](https://i.imgur.com/7CS0tl2.png)](https://www.youtube.com/watch?v=w90ziNPJicE&feature=youtu.be "Lupe Call for Code Entry")
 
+# Installation Instructions
+Our solution finds it's routes in the Fabric Samples used for HyperLedger and uses a similiar software stack, relying on IBM Linux One and Hyper Ledger Fabric.
+The verbose instructions can be found at web-app/client and web-app/server.
+From here you will need to run
+
+    npm install
+   Followed by
+   
+     npm start
+
 
 # In Detail
 Lupe is a food redistribution application developed around Blockchain technology is our submission for IBM’s Call for Code competition. While food waste was already a global issue, Covid-19 heightened its effects through not allowing food outlets to operate during lockdown, creating economic stress and scarcity within local communities. Our team successfully created an application which allows local communities to safely share or trade their inventory with others. It could be used during similar situations, such as natural disasters or humanitarian crises. Enterprises of different sizes can benefit from using our digital solution for stock management whilst also uplifting and supporting their local community in times of economic uncertainty. Lupe aims to connect businesses, charities and people.
@@ -19,4 +29,10 @@ We wanted Lupe to be future proof so that it could adapt to suit various needs a
 # Road Map
 ![Roadmap](https://i.imgur.com/C7mSWbP.jpg)
 
+# Our Team
+Our team is comprised of students from the [University of Wolverhampton](https://www.wlv.ac.uk/)
+Lukas Jaks 			| [@JaksLukas](https://twitter.com/jakslukas)
+Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
+Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
+Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
 
