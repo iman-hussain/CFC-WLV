@@ -40,3 +40,8 @@ Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
 Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
 
 Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
+
+# Built With
+[IBM Linux One](https://www.ibm.com/uk-en/it-infrastructure/linuxone)
+[HyperLedger Fabric](https://www.hyperledger.org/use/fabric)
+[Angular](https://angular.io/)
