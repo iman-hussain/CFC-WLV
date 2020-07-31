@@ -3,6 +3,7 @@
 A blockchain powered food redistribution solution, for people, businessess and charities.
 # Video
 Click the thumbnailt to be taken to our video introduction.
+[![Video Thumbnail](https://i.imgur.com/fAV96eR.png)](https://www.youtube.com/watch?v=w90ziNPJicE&feature=youtu.be "Lupe Call for Code Entry")
 
 
 # In Detail
