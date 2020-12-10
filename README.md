@@ -58,3 +58,9 @@ Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
 
 Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
 
+
+# Future Usage
+Feel free to develop on our concept further, or take our foundations and build upon them. We simply ask that you let us know in advance if you do plan on using our work, and that if you do plan to redistribute it you take no profit and claim none of our work as your own.
+
+This software project is presented at this stage without warranty, guarantee, or support - that being said, we're a pretty cool bunch of people so do let us know if you have any questions or need a hand with anything. 
+
