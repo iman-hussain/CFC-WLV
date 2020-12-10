@@ -56,7 +56,5 @@ Lukas Jaks 			| [@JaksLukas](https://twitter.com/jakslukas)
 
 Chloë Allen-Ede 		| [@EdeChloe](https://twitter.com/edechloe)
 
-Fabrice Kana Bassama  | [@bassamakana](https://twitter.com/bassamakana)
-
 Iman Hussain 		| [@Iman__Hussain](https://twitter.com/iman__hussain)
 
